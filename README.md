@@ -1,6 +1,5 @@
 ANGULAR PROJECT
-          By Kondaveeti V V Vinay Babu(2495)
-             Kirubakaran(2499)
+          By Kondaveeti V V Vinay Babu.
 INDEX PAGE:
 ![image](https://github.com/user-attachments/assets/0c72fb86-724e-4893-9011-635e5d62d7d5)
 ![image](https://github.com/user-attachments/assets/f3d6d716-f66a-42d1-8f89-5a38fd4e962f)
